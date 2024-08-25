@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/quo-sequi-dignissimos-provident",
-  "version": "2.13.110",
+  "version": "3.13.110",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -309,5 +309,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/quo-sequi-dignissimos-provident/issues"
   },
-  "packageManager": "yarn@4.4.0"
+  "packageManager": "yarn@4.4.1"
 }
